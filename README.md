@@ -24,19 +24,19 @@ Price Benchmarking, Business Storytelling, Critical Thinking, Stakeholder Commun
 
 ## Portfolio
 
-### [Hybrid Forecasting with Prophet + XGBoost](#)  
+### [Hybrid Forecasting with Prophet + XGBoost](https://percydancourt.github.io/)  
 End-to-end pipeline that combines statistical and machine learning methods for time series forecasting.  
 **Skills:** Python, Prophet, XGBoost, pandas, model tuning, residual analysis
 
-### [Geospatial Clustering for Field Teams](#)  
+### [Geospatial Clustering for Field Teams](https://percydancourt.github.io/)  
 Clustering of geographic points using Haversine distance and KMeans, with constraints on minimum/maximum cluster sizes.  
 **Skills:** Python, NumPy, NetworkX, GeoPandas, Scikit-learn
 
-### [Empowering Women Artisans through Smart Fair Placement](#)  
+### [Empowering Women Artisans through Smart Fair Placement](https://percydancourt.github.io/)  
 Geospatial analytics pipeline to recommend optimal public spaces (e.g., parks, plazas) for artisan fairs led by women entrepreneurs.  
 **Skills:** Python, GeoPandas, QGIS, Folium, spatial clustering, public data fusion
 
-### [Competitive Pricing Analysis](#)  
+### [Competitive Pricing Analysis](https://percydancourt.github.io/)  
 Web scraping pipeline to collect product prices from online stores, followed by price comparison and visualization by category and competitor. Highlights pricing gaps, undercuts, and strategic opportunities.  
 **Skills:** Python, BeautifulSoup/Selenium, pandas, data cleaning, price comparison, matplotlib/seaborn, Power BI
 
