@@ -1,4 +1,4 @@
-# Percy Dancourt — Data Scientist & Analyst
+# Data Scientist & Analyst
 
 ## About Me
 I help businesses unlock the power of their data. Blending business insight with AI and analytics, I design custom solutions that drive growth, efficiency, and smarter decisions. From strategy to execution, I turn data into a competitive edge.
@@ -31,6 +31,14 @@ Web scraping pipeline to collect product prices from online stores, followed by 
 * Microsoft Certified: Power BI Data Analyst Associate (PL-300) - 2025
 
 ## Experience
+
+### BIQ — *CEO & Founder*  
+**2025 – Present**  
+- Founded a business intelligence and data consulting firm focused on helping companies unlock value through analytics, automation, and data-driven strategy.  
+- Designed tailored solutions for clients in retail, research, and service sectors — covering forecasting, dashboard automation, pricing intelligence, and competitive analysis.  
+- Led end-to-end project delivery: from client discovery and business understanding to technical implementation and post-delivery training.  
+- Built scalable data pipelines, automated reporting flows, and custom KPIs using Python, SQL, and Power BI.  
+- Acted as strategic advisor to clients, helping them make informed decisions through data storytelling and insight delivery.
 
 ### Damer Investigación de Mercados — *Business Intelligence Analyst*  
 **2025 – Present**  
